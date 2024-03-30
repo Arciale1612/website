@@ -33,5 +33,5 @@ _Use the following keys to switch between the options:_ <kbd>â†‘</kbd> / <kbd>â†
 7. Select a version of the previously selected environment (e.g. `velocity-latest`).
 8. Select an environment for the servers (e.g. `MINECRAFT_SERVER`).
 9. Select a version of the previously selected environment (e.g. `paperspigot-latest`).
-10. Answer the question `Should a default proxy be created?` with `yes` or `no` (recommended: `yes`).
+10. Answer the question `Should a default proxy be created?` with `yes` or `no` (recommended: `yes`). nop
 11. Answer the question `Should a default lobby be created?` with `yes` or `no` (recommended: `yes`).
